@@ -1,6 +1,25 @@
 # Hi, I'm Abdo Hesham 👋
 
-Frontend-focused developer building with Angular/TypeScript and React.
+Frontend-focused developer building practical web products with Angular, TypeScript, React, and AI-assisted workflows.
+
+## About Me
+
+- I build responsive frontend applications, full-stack products, and developer automation tools.
+- Angular and TypeScript are my main stack, with React for modern interactive interfaces.
+- I care about accessible UI, secure integrations, maintainable architecture, and useful automation.
+
+## How I Use AI
+
+I use **Claude Code** and **OpenAI Codex** as development collaborators for research, planning, implementation, code review, and workflow automation. I also build AI into products where it solves a real problem—for example, [JobPilot](https://github.com/AbdoHesham/jobpilot) uses the **Anthropic Claude API** to extract skills from CVs securely on the server.
+
+## Projects I've Worked On
+
+- **[JobPilot](https://github.com/AbdoHesham/jobpilot)** — An AI-assisted job-search platform with Angular 22, Supabase, Deno Edge Functions, scheduled job ingestion, CV parsing, match scoring, authentication, and Row Level Security.
+- **[Orchestrator](https://github.com/AbdoHesham/orchestrator)** — A Claude Code plugin that automates work-item analysis, planning, implementation, review, commits, pushes, and pull requests across major Git platforms.
+- **[ProScreen Recorder](https://github.com/AbdoHesham/screen_Recording.github.io)** — A browser-based screen and voice recorder with real-time multilingual transcription using native Web APIs.
+- **[Flights Booking System](https://github.com/AbdoHesham/Flights-Booking-System)** — An Angular booking application covering flight search, booking forms, tickets, and administration workflows.
+- **[WhatsApp Scheduler](https://github.com/AbdoHesham/WhatsAppScheduler)** — A Python automation utility for scheduling WhatsApp messages.
+- **[Portfolio](https://github.com/AbdoHesham/portfolio)** — A responsive portfolio built with React, Vite, Tailwind CSS, Framer Motion, and GSAP.
 
 ## Languages & Frameworks
 
@@ -21,6 +40,13 @@ Frontend-focused developer building with Angular/TypeScript and React.
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 ![EmailJS](https://img.shields.io/badge/EmailJS-FF6C37?style=for-the-badge&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
+
+## AI Tools
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ## Scripting & Shell
 
